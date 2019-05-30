@@ -1,2 +1,3 @@
 # hello-world
-This is my first time using Github. May 30th 2019
+My first repository
+I am an artist and designer focusing in brutalist inspired creating.
